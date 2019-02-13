@@ -64,3 +64,85 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+hr{
+	width: 90%;
+}
+
+.top-header{
+	margin-bottom: 25px;
+}
+
+.top-header nav {
+	display: inline-block;
+}
+
+.top-header nav a {
+	text-decoration: none;
+	color: grey;
+	padding: 25px;
+}
+
+.top-header nav a:hover {
+	text-decoration: none;
+	color: greenyellow;
+	padding: 25px;
+}
+
+.top-header img {
+	margin-left: 450px;
+	margin-top: 10px;
+}
+
+.bottom-header {
+	display: inline-block;
+	margin: 100px;
+}
+
+.bottom-header h1 {
+	font-size: 100px;
+	margin-right: 200px;
+}
+
+.bottom-header button {
+	height: 30px;
+	width: 100px;
+	border-radius: 5%;
+
+}
+
+.bottom-header button:hover {
+	height: 30px;
+	width: 100px;
+	border-radius: 5%;
+	color: greenyellow;
+
+}
+
+.main section {
+	width: 43%;
+	display: inline-block;
+	margin: 25px 40px;
+}
+
+.main img {
+	margin: 100px 130px;
+}
+
+.dayton .asdf {
+	width: 25%;
+	display: inline-block;
+	margin: 25px 40px;
+}
+
+footer {
+	text-align: center;
+}
+
+address {
+	margin: 20px 25px;
+}
+
+address p {
+	margin: 10px 0;
+}
+
